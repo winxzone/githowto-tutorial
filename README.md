@@ -131,3 +131,5 @@ git daemon --verbose --export-all --base-path=.
 
 КОНЕЦ
 ```
+
+## Дата сдачи - 27.08.2024

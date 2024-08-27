@@ -1,6 +1,6 @@
 ```# "Изучение Git"
 githowto-tutorial
-[Git How To](https://githowto.com/ru/)
+(https://githowto.com/ru/)
 
 ## Установка имени и электронной почты
 git config --global user.name "Your Name"

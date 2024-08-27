@@ -10,9 +10,9 @@ git config --global user.email "your_email@whatever.com"
 git config --global init.defaultBranch main
 
 ## Создание репозитория 
-git init
-git add hello.html
-git commit -m "Initial Commit"
+git init 
+git add hello.html 
+git commit -m "Initial Commit" 
 
 ﻿#﻿# Проверка статуса Гита 
 git status

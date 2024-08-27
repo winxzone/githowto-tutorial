@@ -1,15 +1,15 @@
-# "Вивчення Git"
+# "Изучение Git"
 githowto-tutorial
-https://githowto.com/ru/
+[Git How To](https://githowto.com/ru/)
 
-﻿#﻿# Установка имени и электронной почты
+## Установка имени и электронной почты
 git config --global user.name "Your Name"
 git config --global user.email "your_email@whatever.com"
 
-﻿#﻿# Имя ветки по умолчанию
+## Имя ветки по умолчанию
 git config --global init.defaultBranch main
 
-﻿#﻿# Создание репозитория 
+## Создание репозитория 
 git init
 git add hello.html
 git commit -m "Initial Commit"
@@ -19,14 +19,14 @@ git status
 ﻿#﻿# Проверка всех изменений репозитория 
 git log
 
-﻿#﻿# Контроль отображения записей
+## Контроль отображения записей
 git log --oneline --max-count=2
 git log --oneline --since="5 minutes ago"
 git log --oneline --until="5 minutes ago"
 git log --oneline --author="Your Name"
 git log --oneline --all
 
-﻿## Конечный удобный формат лога
+## Конечный удобный формат лога
 git log --pretty=format:"%h %ad | %s%d [%an]" --date=short
 (Для того что б не вводить постоянно команду, можно добавить её в конфигурацию GIT по умолчанию)
 git config --global format.pretty '%h %ad | %s%d [%an]'

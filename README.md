@@ -1,4 +1,4 @@
-# "Изучение Git"
+```# "Изучение Git"
 githowto-tutorial
 [Git How To](https://githowto.com/ru/)
 
@@ -110,6 +110,7 @@ git branch -a
 git pull 
 ...эквивалентна следующим двум шагам:
 git fetch
+```
 git merge origin/main
 
 ## Запуск Git-сервера

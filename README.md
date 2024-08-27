@@ -110,10 +110,11 @@ git branch -a
 git pull 
 ...эквивалентна следующим двум шагам:
 git fetch
-```
+
 git merge origin/main
 
 ## Запуск Git-сервера
 git daemon --verbose --export-all --base-path=.
 
 КОНЕЦ
+```

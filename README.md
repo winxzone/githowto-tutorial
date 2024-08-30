@@ -1,3 +1,5 @@
+## Полностью пройдено
+
 ```# "Изучение Git"
 githowto-tutorial
 (https://githowto.com/ru/)

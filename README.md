@@ -1,5 +1,4 @@
-# GIT
-
+# GIT - Виконано
 ## "Вивчення Git"
 [githowto-tutorial](https://githowto.com/ru/)
 
